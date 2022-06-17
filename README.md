@@ -11,4 +11,4 @@ Replacement for those old *shared-secrets*.
 
 ## how to join
 1. generate gpg key
-2. submit PR with public key (basedir must be `$REPO_ROOT/$GITHUB_USER_NAME/`. You can choose suitable filename.
+2. submit PR with public key (basedir must be `$REPO_ROOT/keys/$GITHUB_USER_NAME/`. You can choose suitable filename.
